@@ -1,0 +1,31 @@
+{
+    "layout": "./index.hbs",
+    "data": {
+        "title": "天文社",
+        "website": "http://www.canner.io",
+        "news": {
+            "title": "最新消息",
+            "posts": [
+                {
+                    "title": "7/25 - 7/31",
+                    "content": "暑假集訓，有豐富的活動、食物，等著大家參與唷！"
+                },
+                {
+                    "title": "6/30",
+                    "content": "晚上揪團吃飯"
+                }
+
+            ]
+        },
+        "about": {
+            "title": "關於我們",
+            "content": "本社團成立於2010年，固定社課時間為星期三...",
+            "photoLink": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Southern_Milky_Way_Above_ALMA.jpg"
+        },
+        "contact": {
+            "title": "聯絡我們",
+            "email": "club@mail.com",
+            "facebook": "https://www.test.com"
+       }
+    }   
+}
